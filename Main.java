@@ -2,7 +2,7 @@ class Main {
   public static void main(String[] args) {
 
     // teks yang akan diperiksa
-    String teks = "Teknik Informatika merupakan bidang ilmu yang mempelajari bagaimana menggunakan teknologi komputer secara optimal " + "guna menangani masalah transformasi atau pengolahan data dengan proses logika.";
+    String teks = "Universitas Nusa Putra Sukabumi";
 
     int spasi = 0, hurufVokal = 0, hurufKonsonan = 0;
 
